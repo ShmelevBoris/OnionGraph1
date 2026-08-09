@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1786300152456,
+      "tag": "0000_tiny_dreaming_celestial",
+      "breakpoints": true
+    }
+  ]
+}
